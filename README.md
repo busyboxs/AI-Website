@@ -61,6 +61,7 @@
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://web.stanford.edu/~boyd/vmls/) |
 * [DataTau](http://www.datatau.com/news) |
 * [ML Resources](https://sgfin.github.io/learning-resources/) | 
+* [Deep Learning](https://www.deeplearningbook.org/) | An MIT Press book. Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 ## 竞赛
 
