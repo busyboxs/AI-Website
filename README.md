@@ -14,6 +14,11 @@
 ## 论文
 
 * [CVPapers](http://www.cvpapers.com/index.html) | Computer Vision Resource
+* [arxiv](https://arxiv.org/) | 
+  * [Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent) |
+  * [Artificial Intelligence](https://arxiv.org/list/cs.AI/recent) |
+  * [Computation and Language](https://arxiv.org/list/CS.CL/recent) |
+* [PaperWeekly](https://www.paperweekly.site/home) |
 
 ## AI社区
 
@@ -33,6 +38,7 @@
 * [AI研习社](http://ai.yanxishe.com/) | 为人工智能爱好者和从业者提供最新的海外前沿知识、大咖经验分享、资源信息...
 * [Tensorflow中文社区](https://www.tensorflowers.cn/)
 * [腾讯云社区专栏](https://cloud.tencent.com/developer/column) | 分享技术干货，专注打造技术影响力
+* [云栖社区](https://yq.aliyun.com/?spm=a2c4e.11157919.headermainnav.1.70de27aen1UdHw) | 阿里云官方开发者社区
 
 ## 博客
 
